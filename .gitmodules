@@ -1,6 +1,5 @@
+
+
 [submodule "Workshop 3 - Operating System Development/HelloOs"]
 	path = Workshop 3 - Operating System Development/HelloOs
-	url = https://github.com/James-Oswald/HelloOs.git
-[submodule "Workshop 1 - The C programming language/HelloOs"]
-	path = Workshop 1 - The C programming language/HelloOs
-	url = https://github.com/James-Oswald/HelloOs.git
+	url = https://github.com/James-Oswald/HelloOs
