@@ -1,0 +1,3 @@
+[submodule "HelloOs"]
+	path = HelloOs
+	url = https://github.com/James-Oswald/HelloOs.git
